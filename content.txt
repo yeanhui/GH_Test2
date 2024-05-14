@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 content2
-=======
 content3
->>>>>>> dce7cb2 (Update content.txt)
